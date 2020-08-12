@@ -1,0 +1,11 @@
+{
+  "result": {
+    "currencyCode": "string",
+    "depositAddress": "string"
+  },
+  "timestamp": 0,
+  "isSuccessful": true,
+  "errorMessage": "string",
+  "errorCode": 0,
+  "requestId": "string"
+}

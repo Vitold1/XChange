@@ -217,6 +217,7 @@
     <module>xchange-stream-service-pusher</module>
     <module>xchange-stream-service-wamp</module>
     <module>xchange-stream-huobi</module>
+      <module>xchange-stablehouse</module>
 
   </modules>
 

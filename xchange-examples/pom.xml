@@ -404,6 +404,12 @@
 			<artifactId>xchange-lgo</artifactId>
 			<version>${project.version}</version>
 		</dependency>
-    </dependencies>
+		<dependency>
+			<groupId>org.knowm.xchange</groupId>
+			<artifactId>xchange-stablehouse</artifactId>
+			<version>5.0.2-SNAPSHOT</version>
+			<scope>compile</scope>
+		</dependency>
+	</dependencies>
 
 </project>

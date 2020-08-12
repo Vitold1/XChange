@@ -1,0 +1,20 @@
+{
+  "result":{
+    "fundingMatrix":{
+      "fundingRates":[
+        {
+          "currency1IsBase":"string",
+          "currencyCode1":"string",
+          "currencyCode2":"string",
+          "rate":"string",
+          "liquidity":"string"
+        }
+      ]
+    }
+  },
+  "timestamp":0,
+  "isSuccessful":true,
+  "errorMessage":"string",
+  "errorCode":0,
+  "requestId":"string"
+}
